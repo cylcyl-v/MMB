@@ -1,0 +1,4285 @@
+[
+  {
+    "category": "action_recognition",
+    "base_img_id": 21,
+    "image": "assets/mmbench/21.jpg",
+    "mmbench_ids": [
+      21,
+      1000021,
+      2000021,
+      3000021
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 34,
+    "image": "assets/mmbench/34.jpg",
+    "mmbench_ids": [
+      34,
+      1000034,
+      2000034
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 85,
+    "image": "assets/mmbench/85.jpg",
+    "mmbench_ids": [
+      85,
+      1000085,
+      2000085,
+      3000085
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 99,
+    "image": "assets/mmbench/99.jpg",
+    "mmbench_ids": [
+      99,
+      1000099,
+      2000099,
+      3000099
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 100,
+    "image": "assets/mmbench/100.jpg",
+    "mmbench_ids": [
+      100,
+      1000100,
+      2000100,
+      3000100
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 107,
+    "image": "assets/mmbench/107.jpg",
+    "mmbench_ids": [
+      107,
+      1000107,
+      2000107,
+      3000107
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 109,
+    "image": "assets/mmbench/109.jpg",
+    "mmbench_ids": [
+      109,
+      1000109,
+      2000109,
+      3000109
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 112,
+    "image": "assets/mmbench/112.jpg",
+    "mmbench_ids": [
+      112,
+      1000112,
+      2000112,
+      3000112
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 118,
+    "image": "assets/mmbench/118.jpg",
+    "mmbench_ids": [
+      118,
+      1000118,
+      2000118,
+      3000118
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 153,
+    "image": "assets/mmbench/153.jpg",
+    "mmbench_ids": [
+      153,
+      1000153,
+      2000153,
+      3000153
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 575,
+    "image": "assets/mmbench/575.jpg",
+    "mmbench_ids": [
+      575,
+      1000575,
+      2000575,
+      3000575
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 576,
+    "image": "assets/mmbench/576.jpg",
+    "mmbench_ids": [
+      576,
+      1000576,
+      2000576,
+      3000576
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 579,
+    "image": "assets/mmbench/579.jpg",
+    "mmbench_ids": [
+      579,
+      1000579,
+      2000579,
+      3000579
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 582,
+    "image": "assets/mmbench/582.jpg",
+    "mmbench_ids": [
+      582,
+      1000582,
+      2000582,
+      3000582
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 585,
+    "image": "assets/mmbench/585.jpg",
+    "mmbench_ids": [
+      585,
+      1000585,
+      2000585,
+      3000585
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 586,
+    "image": "assets/mmbench/586.jpg",
+    "mmbench_ids": [
+      586,
+      1000586,
+      2000586,
+      3000586
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 587,
+    "image": "assets/mmbench/587.jpg",
+    "mmbench_ids": [
+      587,
+      1000587,
+      2000587,
+      3000587
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 588,
+    "image": "assets/mmbench/588.jpg",
+    "mmbench_ids": [
+      588,
+      1000588,
+      2000588,
+      3000588
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 589,
+    "image": "assets/mmbench/589.jpg",
+    "mmbench_ids": [
+      589,
+      1000589,
+      2000589,
+      3000589
+    ]
+  },
+  {
+    "category": "action_recognition",
+    "base_img_id": 591,
+    "image": "assets/mmbench/591.jpg",
+    "mmbench_ids": [
+      591,
+      1000591,
+      2000591,
+      3000591
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 318,
+    "image": "assets/mmbench/318.jpg",
+    "mmbench_ids": [
+      318,
+      1000318,
+      2000318
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 319,
+    "image": "assets/mmbench/319.jpg",
+    "mmbench_ids": [
+      319,
+      1000319,
+      2000319
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 908,
+    "image": "assets/mmbench/908.jpg",
+    "mmbench_ids": [
+      908,
+      1000908,
+      2000908,
+      3000908
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 909,
+    "image": "assets/mmbench/909.jpg",
+    "mmbench_ids": [
+      909,
+      1000909,
+      2000909,
+      3000909
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 911,
+    "image": "assets/mmbench/911.jpg",
+    "mmbench_ids": [
+      911,
+      1000911,
+      2000911,
+      3000911
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 914,
+    "image": "assets/mmbench/914.jpg",
+    "mmbench_ids": [
+      914,
+      1000914,
+      2000914,
+      3000914
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 918,
+    "image": "assets/mmbench/918.jpg",
+    "mmbench_ids": [
+      918,
+      1000918,
+      2000918,
+      3000918
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 923,
+    "image": "assets/mmbench/923.jpg",
+    "mmbench_ids": [
+      923,
+      1000923,
+      2000923,
+      3000923
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 924,
+    "image": "assets/mmbench/924.jpg",
+    "mmbench_ids": [
+      924,
+      1000924,
+      2000924,
+      3000924
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 926,
+    "image": "assets/mmbench/926.jpg",
+    "mmbench_ids": [
+      926,
+      1000926,
+      2000926,
+      3000926
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 927,
+    "image": "assets/mmbench/927.jpg",
+    "mmbench_ids": [
+      927,
+      1000927,
+      2000927,
+      3000927
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1092,
+    "image": "assets/mmbench/1092.jpg",
+    "mmbench_ids": [
+      1092,
+      1001092,
+      2001092
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1093,
+    "image": "assets/mmbench/1093.jpg",
+    "mmbench_ids": [
+      1093,
+      1001093,
+      2001093
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1096,
+    "image": "assets/mmbench/1096.jpg",
+    "mmbench_ids": [
+      1096,
+      1001096,
+      2001096
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1097,
+    "image": "assets/mmbench/1097.jpg",
+    "mmbench_ids": [
+      1097,
+      1001097,
+      2001097
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1099,
+    "image": "assets/mmbench/1099.jpg",
+    "mmbench_ids": [
+      1099,
+      1001099,
+      2001099
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1102,
+    "image": "assets/mmbench/1102.jpg",
+    "mmbench_ids": [
+      1102,
+      1001102,
+      2001102
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1103,
+    "image": "assets/mmbench/1103.jpg",
+    "mmbench_ids": [
+      1103,
+      1001103,
+      2001103
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1104,
+    "image": "assets/mmbench/1104.jpg",
+    "mmbench_ids": [
+      1104,
+      1001104,
+      2001104
+    ]
+  },
+  {
+    "category": "attribute_comparison",
+    "base_img_id": 1105,
+    "image": "assets/mmbench/1105.jpg",
+    "mmbench_ids": [
+      1105,
+      1001105,
+      2001105
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 145,
+    "image": "assets/mmbench/145.jpg",
+    "mmbench_ids": [
+      145,
+      1000145,
+      2000145,
+      3000145
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 149,
+    "image": "assets/mmbench/149.jpg",
+    "mmbench_ids": [
+      149,
+      1000149,
+      2000149,
+      3000149
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 214,
+    "image": "assets/mmbench/214.jpg",
+    "mmbench_ids": [
+      214,
+      1000214,
+      2000214,
+      3000214
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 215,
+    "image": "assets/mmbench/215.jpg",
+    "mmbench_ids": [
+      215,
+      1000215,
+      2000215,
+      3000215
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 216,
+    "image": "assets/mmbench/216.jpg",
+    "mmbench_ids": [
+      216,
+      1000216,
+      2000216,
+      3000216
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 221,
+    "image": "assets/mmbench/221.jpg",
+    "mmbench_ids": [
+      221,
+      1000221,
+      2000221,
+      3000221
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 223,
+    "image": "assets/mmbench/223.jpg",
+    "mmbench_ids": [
+      223,
+      1000223,
+      2000223,
+      3000223
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 228,
+    "image": "assets/mmbench/228.jpg",
+    "mmbench_ids": [
+      228,
+      1000228,
+      2000228,
+      3000228
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 231,
+    "image": "assets/mmbench/231.jpg",
+    "mmbench_ids": [
+      231,
+      1000231,
+      2000231,
+      3000231
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 232,
+    "image": "assets/mmbench/232.jpg",
+    "mmbench_ids": [
+      232,
+      1000232,
+      2000232,
+      3000232
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 236,
+    "image": "assets/mmbench/236.jpg",
+    "mmbench_ids": [
+      236,
+      1000236,
+      2000236,
+      3000236
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 239,
+    "image": "assets/mmbench/239.jpg",
+    "mmbench_ids": [
+      239,
+      1000239,
+      2000239,
+      3000239
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 362,
+    "image": "assets/mmbench/362.jpg",
+    "mmbench_ids": [
+      362,
+      1000362
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 364,
+    "image": "assets/mmbench/364.jpg",
+    "mmbench_ids": [
+      364,
+      1000364
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 366,
+    "image": "assets/mmbench/366.jpg",
+    "mmbench_ids": [
+      366,
+      1000366,
+      2000366
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 371,
+    "image": "assets/mmbench/371.jpg",
+    "mmbench_ids": [
+      371,
+      1000371
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 374,
+    "image": "assets/mmbench/374.jpg",
+    "mmbench_ids": [
+      374,
+      1000374,
+      2000374
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 426,
+    "image": "assets/mmbench/426.jpg",
+    "mmbench_ids": [
+      426,
+      1000426
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 428,
+    "image": "assets/mmbench/428.jpg",
+    "mmbench_ids": [
+      428,
+      1000428
+    ]
+  },
+  {
+    "category": "attribute_recognition",
+    "base_img_id": 433,
+    "image": "assets/mmbench/433.jpg",
+    "mmbench_ids": [
+      433,
+      1000433,
+      2000433
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 498,
+    "image": "assets/mmbench/498.jpg",
+    "mmbench_ids": [
+      498,
+      1000498,
+      2000498,
+      3000498
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 500,
+    "image": "assets/mmbench/500.jpg",
+    "mmbench_ids": [
+      500,
+      1000500,
+      2000500,
+      3000500
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 506,
+    "image": "assets/mmbench/506.jpg",
+    "mmbench_ids": [
+      506,
+      1000506,
+      2000506,
+      3000506
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 507,
+    "image": "assets/mmbench/507.jpg",
+    "mmbench_ids": [
+      507,
+      1000507,
+      2000507,
+      3000507
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 679,
+    "image": "assets/mmbench/679.jpg",
+    "mmbench_ids": [
+      679,
+      1000679,
+      2000679,
+      3000679
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 685,
+    "image": "assets/mmbench/685.jpg",
+    "mmbench_ids": [
+      685,
+      1000685,
+      2000685,
+      3000685
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 686,
+    "image": "assets/mmbench/686.jpg",
+    "mmbench_ids": [
+      686,
+      1000686,
+      2000686,
+      3000686
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 687,
+    "image": "assets/mmbench/687.jpg",
+    "mmbench_ids": [
+      687,
+      1000687,
+      2000687,
+      3000687
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 688,
+    "image": "assets/mmbench/688.jpg",
+    "mmbench_ids": [
+      688,
+      1000688,
+      2000688,
+      3000688
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 689,
+    "image": "assets/mmbench/689.jpg",
+    "mmbench_ids": [
+      689,
+      1000689,
+      2000689,
+      3000689
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 690,
+    "image": "assets/mmbench/690.jpg",
+    "mmbench_ids": [
+      690,
+      1000690,
+      2000690,
+      3000690
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 692,
+    "image": "assets/mmbench/692.jpg",
+    "mmbench_ids": [
+      692,
+      1000692,
+      2000692,
+      3000692
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 693,
+    "image": "assets/mmbench/693.jpg",
+    "mmbench_ids": [
+      693,
+      1000693,
+      2000693,
+      3000693
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 694,
+    "image": "assets/mmbench/694.jpg",
+    "mmbench_ids": [
+      694,
+      1000694,
+      2000694,
+      3000694
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 695,
+    "image": "assets/mmbench/695.jpg",
+    "mmbench_ids": [
+      695,
+      1000695,
+      2000695,
+      3000695
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 717,
+    "image": "assets/mmbench/717.jpg",
+    "mmbench_ids": [
+      717,
+      1000717,
+      2000717,
+      3000717
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 718,
+    "image": "assets/mmbench/718.jpg",
+    "mmbench_ids": [
+      718,
+      1000718,
+      2000718,
+      3000718
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 720,
+    "image": "assets/mmbench/720.jpg",
+    "mmbench_ids": [
+      720,
+      1000720,
+      2000720,
+      3000720
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 721,
+    "image": "assets/mmbench/721.jpg",
+    "mmbench_ids": [
+      721,
+      1000721,
+      2000721,
+      3000721
+    ]
+  },
+  {
+    "category": "celebrity_recognition",
+    "base_img_id": 722,
+    "image": "assets/mmbench/722.jpg",
+    "mmbench_ids": [
+      722,
+      1000722,
+      2000722,
+      3000722
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 121,
+    "image": "assets/mmbench/121.jpg",
+    "mmbench_ids": [
+      121,
+      1000121,
+      2000121,
+      3000121
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 124,
+    "image": "assets/mmbench/124.jpg",
+    "mmbench_ids": [
+      124,
+      1000124,
+      2000124,
+      3000124
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 134,
+    "image": "assets/mmbench/134.jpg",
+    "mmbench_ids": [
+      134,
+      1000134,
+      2000134,
+      3000134
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 139,
+    "image": "assets/mmbench/139.jpg",
+    "mmbench_ids": [
+      139,
+      1000139,
+      2000139,
+      3000139
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 146,
+    "image": "assets/mmbench/146.jpg",
+    "mmbench_ids": [
+      146,
+      1000146,
+      2000146,
+      3000146
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 151,
+    "image": "assets/mmbench/151.jpg",
+    "mmbench_ids": [
+      151,
+      1000151,
+      2000151,
+      3000151
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 155,
+    "image": "assets/mmbench/155.jpg",
+    "mmbench_ids": [
+      155,
+      1000155,
+      2000155,
+      3000155
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 158,
+    "image": "assets/mmbench/158.jpg",
+    "mmbench_ids": [
+      158,
+      1000158,
+      2000158,
+      3000158
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 162,
+    "image": "assets/mmbench/162.jpg",
+    "mmbench_ids": [
+      162,
+      1000162,
+      2000162,
+      3000162
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 164,
+    "image": "assets/mmbench/164.jpg",
+    "mmbench_ids": [
+      164,
+      1000164,
+      2000164,
+      3000164
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 167,
+    "image": "assets/mmbench/167.jpg",
+    "mmbench_ids": [
+      167,
+      1000167,
+      2000167,
+      3000167
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 168,
+    "image": "assets/mmbench/168.jpg",
+    "mmbench_ids": [
+      168,
+      1000168,
+      2000168
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 174,
+    "image": "assets/mmbench/174.jpg",
+    "mmbench_ids": [
+      174,
+      1000174,
+      2000174,
+      3000174
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 182,
+    "image": "assets/mmbench/182.jpg",
+    "mmbench_ids": [
+      182,
+      1000182,
+      2000182,
+      3000182
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 183,
+    "image": "assets/mmbench/183.jpg",
+    "mmbench_ids": [
+      183,
+      1000183,
+      2000183,
+      3000183
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 190,
+    "image": "assets/mmbench/190.jpg",
+    "mmbench_ids": [
+      190,
+      1000190,
+      2000190,
+      3000190
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 193,
+    "image": "assets/mmbench/193.jpg",
+    "mmbench_ids": [
+      193,
+      1000193,
+      2000193,
+      3000193
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 197,
+    "image": "assets/mmbench/197.jpg",
+    "mmbench_ids": [
+      197,
+      1000197,
+      2000197,
+      3000197
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 199,
+    "image": "assets/mmbench/199.jpg",
+    "mmbench_ids": [
+      199,
+      1000199,
+      2000199,
+      3000199
+    ]
+  },
+  {
+    "category": "function_reasoning",
+    "base_img_id": 200,
+    "image": "assets/mmbench/200.jpg",
+    "mmbench_ids": [
+      200,
+      1000200,
+      2000200,
+      3000200
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 122,
+    "image": "assets/mmbench/122.jpg",
+    "mmbench_ids": [
+      122,
+      1000122,
+      2000122,
+      3000122
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 166,
+    "image": "assets/mmbench/166.jpg",
+    "mmbench_ids": [
+      166,
+      1000166,
+      2000166,
+      3000166
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 442,
+    "image": "assets/mmbench/442.jpg",
+    "mmbench_ids": [
+      442,
+      1000442
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 445,
+    "image": "assets/mmbench/445.jpg",
+    "mmbench_ids": [
+      445,
+      1000445,
+      2000445
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1018,
+    "image": "assets/mmbench/1018.jpg",
+    "mmbench_ids": [
+      1018,
+      1001018,
+      2001018,
+      3001018
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1021,
+    "image": "assets/mmbench/1021.jpg",
+    "mmbench_ids": [
+      1021,
+      1001021,
+      2001021,
+      3001021
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1025,
+    "image": "assets/mmbench/1025.jpg",
+    "mmbench_ids": [
+      1025,
+      1001025,
+      2001025,
+      3001025
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1026,
+    "image": "assets/mmbench/1026.jpg",
+    "mmbench_ids": [
+      1026,
+      1001026,
+      2001026,
+      3001026
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1030,
+    "image": "assets/mmbench/1030.jpg",
+    "mmbench_ids": [
+      1030,
+      1001030,
+      2001030,
+      3001030
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1031,
+    "image": "assets/mmbench/1031.jpg",
+    "mmbench_ids": [
+      1031,
+      1001031,
+      2001031,
+      3001031
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1033,
+    "image": "assets/mmbench/1033.jpg",
+    "mmbench_ids": [
+      1033,
+      1001033,
+      2001033,
+      3001033
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1037,
+    "image": "assets/mmbench/1037.jpg",
+    "mmbench_ids": [
+      1037,
+      1001037,
+      2001037,
+      3001037
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1038,
+    "image": "assets/mmbench/1038.jpg",
+    "mmbench_ids": [
+      1038,
+      1001038,
+      2001038,
+      3001038
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1189,
+    "image": "assets/mmbench/1189.jpg",
+    "mmbench_ids": [
+      1189,
+      1001189,
+      2001189
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1192,
+    "image": "assets/mmbench/1192.jpg",
+    "mmbench_ids": [
+      1192,
+      1001192,
+      2001192
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1193,
+    "image": "assets/mmbench/1193.jpg",
+    "mmbench_ids": [
+      1193,
+      1001193,
+      2001193
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1195,
+    "image": "assets/mmbench/1195.jpg",
+    "mmbench_ids": [
+      1195,
+      1001195,
+      2001195
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1198,
+    "image": "assets/mmbench/1198.jpg",
+    "mmbench_ids": [
+      1198,
+      1001198,
+      2001198
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1199,
+    "image": "assets/mmbench/1199.jpg",
+    "mmbench_ids": [
+      1199,
+      1001199,
+      2001199
+    ]
+  },
+  {
+    "category": "future_prediction",
+    "base_img_id": 1200,
+    "image": "assets/mmbench/1200.jpg",
+    "mmbench_ids": [
+      1200,
+      1001200,
+      2001200
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 126,
+    "image": "assets/mmbench/126.jpg",
+    "mmbench_ids": [
+      126,
+      1000126,
+      2000126,
+      3000126
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 159,
+    "image": "assets/mmbench/159.jpg",
+    "mmbench_ids": [
+      159,
+      1000159,
+      2000159,
+      3000159
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 170,
+    "image": "assets/mmbench/170.jpg",
+    "mmbench_ids": [
+      170,
+      1000170,
+      2000170,
+      3000170
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 184,
+    "image": "assets/mmbench/184.jpg",
+    "mmbench_ids": [
+      184,
+      1000184,
+      2000184,
+      3000184
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 241,
+    "image": "assets/mmbench/241.jpg",
+    "mmbench_ids": [
+      241,
+      1000241
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 244,
+    "image": "assets/mmbench/244.jpg",
+    "mmbench_ids": [
+      244,
+      1000244,
+      2000244
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 389,
+    "image": "assets/mmbench/389.jpg",
+    "mmbench_ids": [
+      389,
+      1000389,
+      2000389
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 848,
+    "image": "assets/mmbench/848.jpg",
+    "mmbench_ids": [
+      848,
+      1000848,
+      2000848,
+      3000848
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 852,
+    "image": "assets/mmbench/852.jpg",
+    "mmbench_ids": [
+      852,
+      1000852,
+      2000852,
+      3000852
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 853,
+    "image": "assets/mmbench/853.jpg",
+    "mmbench_ids": [
+      853,
+      1000853,
+      2000853,
+      3000853
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 855,
+    "image": "assets/mmbench/855.jpg",
+    "mmbench_ids": [
+      855,
+      1000855,
+      2000855,
+      3000855
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 856,
+    "image": "assets/mmbench/856.jpg",
+    "mmbench_ids": [
+      856,
+      1000856,
+      2000856,
+      3000856
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1377,
+    "image": "assets/mmbench/1377.jpg",
+    "mmbench_ids": [
+      1377,
+      1001377,
+      2001377,
+      3001377
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1378,
+    "image": "assets/mmbench/1378.jpg",
+    "mmbench_ids": [
+      1378,
+      1001378,
+      2001378,
+      3001378
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1381,
+    "image": "assets/mmbench/1381.jpg",
+    "mmbench_ids": [
+      1381,
+      1001381,
+      2001381,
+      3001381
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1382,
+    "image": "assets/mmbench/1382.jpg",
+    "mmbench_ids": [
+      1382,
+      1001382,
+      2001382,
+      3001382
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1384,
+    "image": "assets/mmbench/1384.jpg",
+    "mmbench_ids": [
+      1384,
+      1001384,
+      2001384,
+      3001384
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1385,
+    "image": "assets/mmbench/1385.jpg",
+    "mmbench_ids": [
+      1385,
+      1001385,
+      2001385,
+      3001385
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1387,
+    "image": "assets/mmbench/1387.jpg",
+    "mmbench_ids": [
+      1387,
+      1001387,
+      2001387,
+      3001387
+    ]
+  },
+  {
+    "category": "identity_reasoning",
+    "base_img_id": 1388,
+    "image": "assets/mmbench/1388.jpg",
+    "mmbench_ids": [
+      1388,
+      1001388,
+      2001388,
+      3001388
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 512,
+    "image": "assets/mmbench/512.jpg",
+    "mmbench_ids": [
+      512,
+      1000512,
+      2000512,
+      3000512
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 515,
+    "image": "assets/mmbench/515.jpg",
+    "mmbench_ids": [
+      515,
+      1000515,
+      2000515,
+      3000515
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 517,
+    "image": "assets/mmbench/517.jpg",
+    "mmbench_ids": [
+      517,
+      1000517,
+      2000517,
+      3000517
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 520,
+    "image": "assets/mmbench/520.jpg",
+    "mmbench_ids": [
+      520,
+      1000520,
+      2000520,
+      3000520
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 522,
+    "image": "assets/mmbench/522.jpg",
+    "mmbench_ids": [
+      522,
+      1000522,
+      2000522,
+      3000522
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 523,
+    "image": "assets/mmbench/523.jpg",
+    "mmbench_ids": [
+      523,
+      1000523,
+      2000523,
+      3000523
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 526,
+    "image": "assets/mmbench/526.jpg",
+    "mmbench_ids": [
+      526,
+      1000526,
+      2000526,
+      3000526
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 527,
+    "image": "assets/mmbench/527.jpg",
+    "mmbench_ids": [
+      527,
+      1000527,
+      2000527,
+      3000527
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 529,
+    "image": "assets/mmbench/529.jpg",
+    "mmbench_ids": [
+      529,
+      1000529,
+      2000529,
+      3000529
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 532,
+    "image": "assets/mmbench/532.jpg",
+    "mmbench_ids": [
+      532,
+      1000532,
+      2000532,
+      3000532
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 534,
+    "image": "assets/mmbench/534.jpg",
+    "mmbench_ids": [
+      534,
+      1000534,
+      2000534,
+      3000534
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 535,
+    "image": "assets/mmbench/535.jpg",
+    "mmbench_ids": [
+      535,
+      1000535,
+      2000535,
+      3000535
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 536,
+    "image": "assets/mmbench/536.jpg",
+    "mmbench_ids": [
+      536,
+      1000536,
+      2000536,
+      3000536
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 539,
+    "image": "assets/mmbench/539.jpg",
+    "mmbench_ids": [
+      539,
+      1000539,
+      2000539,
+      3000539
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 543,
+    "image": "assets/mmbench/543.jpg",
+    "mmbench_ids": [
+      543,
+      1000543,
+      2000543,
+      3000543
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 544,
+    "image": "assets/mmbench/544.jpg",
+    "mmbench_ids": [
+      544,
+      1000544,
+      2000544,
+      3000544
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 545,
+    "image": "assets/mmbench/545.jpg",
+    "mmbench_ids": [
+      545,
+      1000545,
+      2000545,
+      3000545
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 1325,
+    "image": "assets/mmbench/1325.jpg",
+    "mmbench_ids": [
+      1325,
+      1001325,
+      2001325,
+      3001325
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 1327,
+    "image": "assets/mmbench/1327.jpg",
+    "mmbench_ids": [
+      1327,
+      1001327,
+      2001327,
+      3001327
+    ]
+  },
+  {
+    "category": "image_emotion",
+    "base_img_id": 1328,
+    "image": "assets/mmbench/1328.jpg",
+    "mmbench_ids": [
+      1328,
+      1001328,
+      2001328,
+      3001328
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 768,
+    "image": "assets/mmbench/768.jpg",
+    "mmbench_ids": [
+      768,
+      1000768,
+      2000768,
+      3000768
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 771,
+    "image": "assets/mmbench/771.jpg",
+    "mmbench_ids": [
+      771,
+      1000771,
+      2000771,
+      3000771
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 773,
+    "image": "assets/mmbench/773.jpg",
+    "mmbench_ids": [
+      773,
+      1000773,
+      2000773,
+      3000773
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 776,
+    "image": "assets/mmbench/776.jpg",
+    "mmbench_ids": [
+      776,
+      1000776,
+      2000776,
+      3000776
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 778,
+    "image": "assets/mmbench/778.jpg",
+    "mmbench_ids": [
+      778,
+      1000778,
+      2000778,
+      3000778
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 779,
+    "image": "assets/mmbench/779.jpg",
+    "mmbench_ids": [
+      779,
+      1000779,
+      2000779,
+      3000779
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 782,
+    "image": "assets/mmbench/782.jpg",
+    "mmbench_ids": [
+      782,
+      1000782,
+      2000782,
+      3000782
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 783,
+    "image": "assets/mmbench/783.jpg",
+    "mmbench_ids": [
+      783,
+      1000783,
+      2000783,
+      3000783
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 785,
+    "image": "assets/mmbench/785.jpg",
+    "mmbench_ids": [
+      785,
+      1000785,
+      2000785,
+      3000785
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 788,
+    "image": "assets/mmbench/788.jpg",
+    "mmbench_ids": [
+      788,
+      1000788,
+      2000788,
+      3000788
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 792,
+    "image": "assets/mmbench/792.jpg",
+    "mmbench_ids": [
+      792,
+      1000792,
+      2000792,
+      3000792
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 793,
+    "image": "assets/mmbench/793.jpg",
+    "mmbench_ids": [
+      793,
+      1000793,
+      2000793,
+      3000793
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 795,
+    "image": "assets/mmbench/795.jpg",
+    "mmbench_ids": [
+      795,
+      1000795,
+      2000795,
+      3000795
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 796,
+    "image": "assets/mmbench/796.jpg",
+    "mmbench_ids": [
+      796,
+      1000796,
+      2000796,
+      3000796
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 799,
+    "image": "assets/mmbench/799.jpg",
+    "mmbench_ids": [
+      799,
+      1000799,
+      2000799,
+      3000799
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 800,
+    "image": "assets/mmbench/800.jpg",
+    "mmbench_ids": [
+      800,
+      1000800,
+      2000800,
+      3000800
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 801,
+    "image": "assets/mmbench/801.jpg",
+    "mmbench_ids": [
+      801,
+      1000801,
+      2000801,
+      3000801
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 802,
+    "image": "assets/mmbench/802.jpg",
+    "mmbench_ids": [
+      802,
+      1000802,
+      2000802,
+      3000802
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 803,
+    "image": "assets/mmbench/803.jpg",
+    "mmbench_ids": [
+      803,
+      1000803,
+      2000803,
+      3000803
+    ]
+  },
+  {
+    "category": "image_quality",
+    "base_img_id": 804,
+    "image": "assets/mmbench/804.jpg",
+    "mmbench_ids": [
+      804,
+      1000804,
+      2000804,
+      3000804
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 22,
+    "image": "assets/mmbench/22.jpg",
+    "mmbench_ids": [
+      22,
+      1000022,
+      2000022,
+      3000022
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 27,
+    "image": "assets/mmbench/27.jpg",
+    "mmbench_ids": [
+      27,
+      1000027,
+      2000027,
+      3000027
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 28,
+    "image": "assets/mmbench/28.jpg",
+    "mmbench_ids": [
+      28,
+      1000028,
+      2000028,
+      3000028
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 30,
+    "image": "assets/mmbench/30.jpg",
+    "mmbench_ids": [
+      30,
+      1000030,
+      2000030,
+      3000030
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 45,
+    "image": "assets/mmbench/45.jpg",
+    "mmbench_ids": [
+      45,
+      1000045,
+      2000045,
+      3000045
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 46,
+    "image": "assets/mmbench/46.jpg",
+    "mmbench_ids": [
+      46,
+      1000046,
+      2000046,
+      3000046
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 47,
+    "image": "assets/mmbench/47.jpg",
+    "mmbench_ids": [
+      47,
+      1000047,
+      2000047,
+      3000047
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 48,
+    "image": "assets/mmbench/48.jpg",
+    "mmbench_ids": [
+      48,
+      1000048,
+      2000048,
+      3000048
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 49,
+    "image": "assets/mmbench/49.jpg",
+    "mmbench_ids": [
+      49,
+      1000049,
+      2000049,
+      3000049
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 51,
+    "image": "assets/mmbench/51.jpg",
+    "mmbench_ids": [
+      51,
+      1000051,
+      2000051
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 53,
+    "image": "assets/mmbench/53.jpg",
+    "mmbench_ids": [
+      53,
+      1000053,
+      2000053,
+      3000053
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 55,
+    "image": "assets/mmbench/55.jpg",
+    "mmbench_ids": [
+      55,
+      1000055,
+      2000055,
+      3000055
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 57,
+    "image": "assets/mmbench/57.jpg",
+    "mmbench_ids": [
+      57,
+      1000057,
+      2000057,
+      3000057
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 58,
+    "image": "assets/mmbench/58.jpg",
+    "mmbench_ids": [
+      58,
+      1000058,
+      2000058,
+      3000058
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 62,
+    "image": "assets/mmbench/62.jpg",
+    "mmbench_ids": [
+      62,
+      1000062,
+      2000062,
+      3000062
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 69,
+    "image": "assets/mmbench/69.jpg",
+    "mmbench_ids": [
+      69,
+      1000069,
+      2000069,
+      3000069
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 70,
+    "image": "assets/mmbench/70.jpg",
+    "mmbench_ids": [
+      70,
+      1000070,
+      2000070,
+      3000070
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 73,
+    "image": "assets/mmbench/73.jpg",
+    "mmbench_ids": [
+      73,
+      1000073,
+      2000073,
+      3000073
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 74,
+    "image": "assets/mmbench/74.jpg",
+    "mmbench_ids": [
+      74,
+      1000074,
+      2000074,
+      3000074
+    ]
+  },
+  {
+    "category": "image_scene",
+    "base_img_id": 75,
+    "image": "assets/mmbench/75.jpg",
+    "mmbench_ids": [
+      75,
+      1000075,
+      2000075,
+      3000075
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 503,
+    "image": "assets/mmbench/503.jpg",
+    "mmbench_ids": [
+      503,
+      1000503,
+      2000503,
+      3000503
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 548,
+    "image": "assets/mmbench/548.jpg",
+    "mmbench_ids": [
+      548,
+      1000548,
+      2000548,
+      3000548
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 550,
+    "image": "assets/mmbench/550.jpg",
+    "mmbench_ids": [
+      550,
+      1000550,
+      2000550,
+      3000550
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 553,
+    "image": "assets/mmbench/553.jpg",
+    "mmbench_ids": [
+      553,
+      1000553,
+      2000553,
+      3000553
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 555,
+    "image": "assets/mmbench/555.jpg",
+    "mmbench_ids": [
+      555,
+      1000555,
+      2000555,
+      3000555
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 556,
+    "image": "assets/mmbench/556.jpg",
+    "mmbench_ids": [
+      556,
+      1000556,
+      2000556,
+      3000556
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 559,
+    "image": "assets/mmbench/559.jpg",
+    "mmbench_ids": [
+      559,
+      1000559,
+      2000559,
+      3000559
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 560,
+    "image": "assets/mmbench/560.jpg",
+    "mmbench_ids": [
+      560,
+      1000560,
+      2000560,
+      3000560
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 562,
+    "image": "assets/mmbench/562.jpg",
+    "mmbench_ids": [
+      562,
+      1000562,
+      2000562,
+      3000562
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 565,
+    "image": "assets/mmbench/565.jpg",
+    "mmbench_ids": [
+      565,
+      1000565,
+      2000565,
+      3000565
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 568,
+    "image": "assets/mmbench/568.jpg",
+    "mmbench_ids": [
+      568,
+      1000568,
+      2000568,
+      3000568
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 569,
+    "image": "assets/mmbench/569.jpg",
+    "mmbench_ids": [
+      569,
+      1000569,
+      2000569,
+      3000569
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 570,
+    "image": "assets/mmbench/570.jpg",
+    "mmbench_ids": [
+      570,
+      1000570,
+      2000570,
+      3000570
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 572,
+    "image": "assets/mmbench/572.jpg",
+    "mmbench_ids": [
+      572,
+      1000572,
+      2000572,
+      3000572
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 573,
+    "image": "assets/mmbench/573.jpg",
+    "mmbench_ids": [
+      573,
+      1000573,
+      2000573,
+      3000573
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 1573,
+    "image": "assets/mmbench/1573.jpg",
+    "mmbench_ids": [
+      1573,
+      1001573,
+      2001573,
+      3001573
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 1574,
+    "image": "assets/mmbench/1574.jpg",
+    "mmbench_ids": [
+      1574,
+      1001574,
+      2001574,
+      3001574
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 1575,
+    "image": "assets/mmbench/1575.jpg",
+    "mmbench_ids": [
+      1575,
+      1001575,
+      2001575,
+      3001575
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 1576,
+    "image": "assets/mmbench/1576.jpg",
+    "mmbench_ids": [
+      1576,
+      1001576,
+      2001576,
+      3001576
+    ]
+  },
+  {
+    "category": "image_style",
+    "base_img_id": 1578,
+    "image": "assets/mmbench/1578.jpg",
+    "mmbench_ids": [
+      1578,
+      1001578,
+      2001578,
+      3001578
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 38,
+    "image": "assets/mmbench/38.jpg",
+    "mmbench_ids": [
+      38,
+      1000038,
+      2000038,
+      3000038
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 50,
+    "image": "assets/mmbench/50.jpg",
+    "mmbench_ids": [
+      50,
+      1000050,
+      2000050,
+      3000050
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 54,
+    "image": "assets/mmbench/54.jpg",
+    "mmbench_ids": [
+      54,
+      1000054,
+      2000054,
+      3000054
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 64,
+    "image": "assets/mmbench/64.jpg",
+    "mmbench_ids": [
+      64,
+      1000064,
+      2000064,
+      3000064
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 67,
+    "image": "assets/mmbench/67.jpg",
+    "mmbench_ids": [
+      67,
+      1000067,
+      2000067,
+      3000067
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 68,
+    "image": "assets/mmbench/68.jpg",
+    "mmbench_ids": [
+      68,
+      1000068,
+      2000068,
+      3000068
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 72,
+    "image": "assets/mmbench/72.jpg",
+    "mmbench_ids": [
+      72,
+      1000072,
+      2000072,
+      3000072
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 89,
+    "image": "assets/mmbench/89.jpg",
+    "mmbench_ids": [
+      89,
+      1000089,
+      2000089,
+      3000089
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 92,
+    "image": "assets/mmbench/92.jpg",
+    "mmbench_ids": [
+      92,
+      1000092,
+      2000092,
+      3000092
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 94,
+    "image": "assets/mmbench/94.jpg",
+    "mmbench_ids": [
+      94,
+      1000094,
+      2000094,
+      3000094
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 95,
+    "image": "assets/mmbench/95.jpg",
+    "mmbench_ids": [
+      95,
+      1000095,
+      2000095,
+      3000095
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 97,
+    "image": "assets/mmbench/97.jpg",
+    "mmbench_ids": [
+      97,
+      1000097,
+      2000097,
+      3000097
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 101,
+    "image": "assets/mmbench/101.jpg",
+    "mmbench_ids": [
+      101,
+      1000101,
+      2000101,
+      3000101
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 102,
+    "image": "assets/mmbench/102.jpg",
+    "mmbench_ids": [
+      102,
+      1000102,
+      2000102,
+      3000102
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 108,
+    "image": "assets/mmbench/108.jpg",
+    "mmbench_ids": [
+      108,
+      1000108,
+      2000108,
+      3000108
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 114,
+    "image": "assets/mmbench/114.jpg",
+    "mmbench_ids": [
+      114,
+      1000114,
+      2000114,
+      3000114
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 133,
+    "image": "assets/mmbench/133.jpg",
+    "mmbench_ids": [
+      133,
+      1000133,
+      2000133,
+      3000133
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 144,
+    "image": "assets/mmbench/144.jpg",
+    "mmbench_ids": [
+      144,
+      1000144,
+      2000144,
+      3000144
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 148,
+    "image": "assets/mmbench/148.jpg",
+    "mmbench_ids": [
+      148,
+      1000148,
+      2000148,
+      3000148
+    ]
+  },
+  {
+    "category": "image_topic",
+    "base_img_id": 196,
+    "image": "assets/mmbench/196.jpg",
+    "mmbench_ids": [
+      196,
+      1000196,
+      2000196,
+      3000196
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 198,
+    "image": "assets/mmbench/198.jpg",
+    "mmbench_ids": [
+      198,
+      1000198,
+      2000198,
+      3000198
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 427,
+    "image": "assets/mmbench/427.jpg",
+    "mmbench_ids": [
+      427,
+      1000427,
+      2000427
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 432,
+    "image": "assets/mmbench/432.jpg",
+    "mmbench_ids": [
+      432,
+      1000432,
+      2000432
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 440,
+    "image": "assets/mmbench/440.jpg",
+    "mmbench_ids": [
+      440,
+      1000440,
+      2000440
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 828,
+    "image": "assets/mmbench/828.jpg",
+    "mmbench_ids": [
+      828,
+      1000828,
+      2000828
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 832,
+    "image": "assets/mmbench/832.jpg",
+    "mmbench_ids": [
+      832,
+      1000832,
+      2000832
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 833,
+    "image": "assets/mmbench/833.jpg",
+    "mmbench_ids": [
+      833,
+      1000833,
+      2000833
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 835,
+    "image": "assets/mmbench/835.jpg",
+    "mmbench_ids": [
+      835,
+      1000835,
+      2000835
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 837,
+    "image": "assets/mmbench/837.jpg",
+    "mmbench_ids": [
+      837,
+      1000837,
+      2000837
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 838,
+    "image": "assets/mmbench/838.jpg",
+    "mmbench_ids": [
+      838,
+      1000838,
+      2000838
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 840,
+    "image": "assets/mmbench/840.jpg",
+    "mmbench_ids": [
+      840,
+      1000840,
+      2000840
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 841,
+    "image": "assets/mmbench/841.jpg",
+    "mmbench_ids": [
+      841,
+      1000841,
+      2000841
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 845,
+    "image": "assets/mmbench/845.jpg",
+    "mmbench_ids": [
+      845,
+      1000845,
+      2000845
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 846,
+    "image": "assets/mmbench/846.jpg",
+    "mmbench_ids": [
+      846,
+      1000846,
+      2000846
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 1940,
+    "image": "assets/mmbench/1940.jpg",
+    "mmbench_ids": [
+      1940,
+      1001940,
+      2001940,
+      3001940
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 1941,
+    "image": "assets/mmbench/1941.jpg",
+    "mmbench_ids": [
+      1941,
+      1001941,
+      2001941,
+      3001941
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 1943,
+    "image": "assets/mmbench/1943.jpg",
+    "mmbench_ids": [
+      1943,
+      1001943,
+      2001943,
+      3001943
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 1945,
+    "image": "assets/mmbench/1945.jpg",
+    "mmbench_ids": [
+      1945,
+      1001945,
+      2001945,
+      3001945
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 1946,
+    "image": "assets/mmbench/1946.jpg",
+    "mmbench_ids": [
+      1946,
+      1001946,
+      2001946,
+      3001946
+    ]
+  },
+  {
+    "category": "nature_relation",
+    "base_img_id": 1947,
+    "image": "assets/mmbench/1947.jpg",
+    "mmbench_ids": [
+      1947,
+      1001947,
+      2001947,
+      3001947
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 24,
+    "image": "assets/mmbench/24.jpg",
+    "mmbench_ids": [
+      24,
+      1000024,
+      2000024,
+      3000024
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 25,
+    "image": "assets/mmbench/25.jpg",
+    "mmbench_ids": [
+      25,
+      1000025,
+      2000025,
+      3000025
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 344,
+    "image": "assets/mmbench/344.jpg",
+    "mmbench_ids": [
+      344,
+      1000344
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 345,
+    "image": "assets/mmbench/345.jpg",
+    "mmbench_ids": [
+      345,
+      1000345,
+      2000345,
+      3000345
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 346,
+    "image": "assets/mmbench/346.jpg",
+    "mmbench_ids": [
+      346,
+      1000346,
+      2000346,
+      3000346
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 348,
+    "image": "assets/mmbench/348.jpg",
+    "mmbench_ids": [
+      348,
+      1000348,
+      2000348,
+      3000348
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 349,
+    "image": "assets/mmbench/349.jpg",
+    "mmbench_ids": [
+      349,
+      1000349,
+      2000349,
+      3000349
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 352,
+    "image": "assets/mmbench/352.jpg",
+    "mmbench_ids": [
+      352,
+      1000352,
+      2000352,
+      3000352
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 353,
+    "image": "assets/mmbench/353.jpg",
+    "mmbench_ids": [
+      353,
+      1000353,
+      2000353,
+      3000353
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 356,
+    "image": "assets/mmbench/356.jpg",
+    "mmbench_ids": [
+      356,
+      1000356,
+      2000356,
+      3000356
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 359,
+    "image": "assets/mmbench/359.jpg",
+    "mmbench_ids": [
+      359,
+      1000359,
+      2000359,
+      3000359
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 431,
+    "image": "assets/mmbench/431.jpg",
+    "mmbench_ids": [
+      431,
+      1000431,
+      2000431
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 448,
+    "image": "assets/mmbench/448.jpg",
+    "mmbench_ids": [
+      448,
+      1000448
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 449,
+    "image": "assets/mmbench/449.jpg",
+    "mmbench_ids": [
+      449,
+      1000449
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 477,
+    "image": "assets/mmbench/477.jpg",
+    "mmbench_ids": [
+      477,
+      1000477
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 510,
+    "image": "assets/mmbench/510.jpg",
+    "mmbench_ids": [
+      510,
+      1000510,
+      2000510,
+      3000510
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 511,
+    "image": "assets/mmbench/511.jpg",
+    "mmbench_ids": [
+      511,
+      1000511,
+      2000511,
+      3000511
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 629,
+    "image": "assets/mmbench/629.jpg",
+    "mmbench_ids": [
+      629,
+      1000629,
+      2000629,
+      3000629
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 631,
+    "image": "assets/mmbench/631.jpg",
+    "mmbench_ids": [
+      631,
+      1000631,
+      2000631,
+      3000631
+    ]
+  },
+  {
+    "category": "object_localization",
+    "base_img_id": 632,
+    "image": "assets/mmbench/632.jpg",
+    "mmbench_ids": [
+      632,
+      1000632,
+      2000632,
+      3000632
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 505,
+    "image": "assets/mmbench/505.jpg",
+    "mmbench_ids": [
+      505,
+      1000505,
+      2000505,
+      3000505
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 697,
+    "image": "assets/mmbench/697.jpg",
+    "mmbench_ids": [
+      697,
+      1000697,
+      2000697,
+      3000697
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 699,
+    "image": "assets/mmbench/699.jpg",
+    "mmbench_ids": [
+      699,
+      1000699,
+      2000699,
+      3000699
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 702,
+    "image": "assets/mmbench/702.jpg",
+    "mmbench_ids": [
+      702,
+      1000702,
+      2000702,
+      3000702
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 705,
+    "image": "assets/mmbench/705.jpg",
+    "mmbench_ids": [
+      705,
+      1000705,
+      2000705,
+      3000705
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 709,
+    "image": "assets/mmbench/709.jpg",
+    "mmbench_ids": [
+      709,
+      1000709,
+      2000709,
+      3000709
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 710,
+    "image": "assets/mmbench/710.jpg",
+    "mmbench_ids": [
+      710,
+      1000710,
+      2000710,
+      3000710
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 711,
+    "image": "assets/mmbench/711.jpg",
+    "mmbench_ids": [
+      711,
+      1000711,
+      2000711,
+      3000711
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 712,
+    "image": "assets/mmbench/712.jpg",
+    "mmbench_ids": [
+      712,
+      1000712,
+      2000712,
+      3000712
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 714,
+    "image": "assets/mmbench/714.jpg",
+    "mmbench_ids": [
+      714,
+      1000714,
+      2000714,
+      3000714
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 715,
+    "image": "assets/mmbench/715.jpg",
+    "mmbench_ids": [
+      715,
+      1000715,
+      2000715,
+      3000715
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1732,
+    "image": "assets/mmbench/1732.jpg",
+    "mmbench_ids": [
+      1732,
+      1001732,
+      2001732,
+      3001732
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1734,
+    "image": "assets/mmbench/1734.jpg",
+    "mmbench_ids": [
+      1734,
+      1001734,
+      2001734,
+      3001734
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1736,
+    "image": "assets/mmbench/1736.jpg",
+    "mmbench_ids": [
+      1736,
+      1001736,
+      2001736,
+      3001736
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1737,
+    "image": "assets/mmbench/1737.jpg",
+    "mmbench_ids": [
+      1737,
+      1001737,
+      2001737,
+      3001737
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1738,
+    "image": "assets/mmbench/1738.jpg",
+    "mmbench_ids": [
+      1738,
+      1001738,
+      2001738,
+      3001738
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1740,
+    "image": "assets/mmbench/1740.jpg",
+    "mmbench_ids": [
+      1740,
+      1001740,
+      2001740,
+      3001740
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1741,
+    "image": "assets/mmbench/1741.jpg",
+    "mmbench_ids": [
+      1741,
+      1001741,
+      2001741,
+      3001741
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1743,
+    "image": "assets/mmbench/1743.jpg",
+    "mmbench_ids": [
+      1743,
+      1001743,
+      2001743,
+      3001743
+    ]
+  },
+  {
+    "category": "ocr",
+    "base_img_id": 1744,
+    "image": "assets/mmbench/1744.jpg",
+    "mmbench_ids": [
+      1744,
+      1001744,
+      2001744,
+      3001744
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 137,
+    "image": "assets/mmbench/137.jpg",
+    "mmbench_ids": [
+      137,
+      1000137,
+      2000137,
+      3000137
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 252,
+    "image": "assets/mmbench/252.jpg",
+    "mmbench_ids": [
+      252,
+      1000252
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 253,
+    "image": "assets/mmbench/253.jpg",
+    "mmbench_ids": [
+      253,
+      1000253
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 254,
+    "image": "assets/mmbench/254.jpg",
+    "mmbench_ids": [
+      254,
+      1000254
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 256,
+    "image": "assets/mmbench/256.jpg",
+    "mmbench_ids": [
+      256,
+      1000256
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 258,
+    "image": "assets/mmbench/258.jpg",
+    "mmbench_ids": [
+      258,
+      1000258
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 261,
+    "image": "assets/mmbench/261.jpg",
+    "mmbench_ids": [
+      261,
+      1000261
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 264,
+    "image": "assets/mmbench/264.jpg",
+    "mmbench_ids": [
+      264,
+      1000264
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 267,
+    "image": "assets/mmbench/267.jpg",
+    "mmbench_ids": [
+      267,
+      1000267
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 269,
+    "image": "assets/mmbench/269.jpg",
+    "mmbench_ids": [
+      269,
+      1000269
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 270,
+    "image": "assets/mmbench/270.jpg",
+    "mmbench_ids": [
+      270,
+      1000270,
+      2000270
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 274,
+    "image": "assets/mmbench/274.jpg",
+    "mmbench_ids": [
+      274,
+      1000274
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 278,
+    "image": "assets/mmbench/278.jpg",
+    "mmbench_ids": [
+      278,
+      1000278
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 282,
+    "image": "assets/mmbench/282.jpg",
+    "mmbench_ids": [
+      282,
+      1000282,
+      2000282
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 284,
+    "image": "assets/mmbench/284.jpg",
+    "mmbench_ids": [
+      284,
+      1000284,
+      2000284
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 285,
+    "image": "assets/mmbench/285.jpg",
+    "mmbench_ids": [
+      285,
+      1000285,
+      2000285
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 288,
+    "image": "assets/mmbench/288.jpg",
+    "mmbench_ids": [
+      288,
+      1000288,
+      2000288
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 290,
+    "image": "assets/mmbench/290.jpg",
+    "mmbench_ids": [
+      290,
+      1000290,
+      2000290
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 292,
+    "image": "assets/mmbench/292.jpg",
+    "mmbench_ids": [
+      292,
+      1000292,
+      2000292
+    ]
+  },
+  {
+    "category": "physical_property_reasoning",
+    "base_img_id": 294,
+    "image": "assets/mmbench/294.jpg",
+    "mmbench_ids": [
+      294,
+      1000294,
+      2000294
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 322,
+    "image": "assets/mmbench/322.jpg",
+    "mmbench_ids": [
+      322,
+      1000322,
+      2000322,
+      3000322
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 323,
+    "image": "assets/mmbench/323.jpg",
+    "mmbench_ids": [
+      323,
+      1000323,
+      2000323,
+      3000323
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 325,
+    "image": "assets/mmbench/325.jpg",
+    "mmbench_ids": [
+      325,
+      1000325,
+      2000325,
+      3000325
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 329,
+    "image": "assets/mmbench/329.jpg",
+    "mmbench_ids": [
+      329,
+      1000329,
+      2000329,
+      3000329
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 330,
+    "image": "assets/mmbench/330.jpg",
+    "mmbench_ids": [
+      330,
+      1000330,
+      2000330,
+      3000330
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 334,
+    "image": "assets/mmbench/334.jpg",
+    "mmbench_ids": [
+      334,
+      1000334,
+      2000334,
+      3000334
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 335,
+    "image": "assets/mmbench/335.jpg",
+    "mmbench_ids": [
+      335,
+      1000335,
+      2000335,
+      3000335
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 337,
+    "image": "assets/mmbench/337.jpg",
+    "mmbench_ids": [
+      337,
+      1000337,
+      2000337,
+      3000337
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 338,
+    "image": "assets/mmbench/338.jpg",
+    "mmbench_ids": [
+      338,
+      1000338,
+      2000338,
+      3000338
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 339,
+    "image": "assets/mmbench/339.jpg",
+    "mmbench_ids": [
+      339,
+      1000339,
+      2000339,
+      3000339
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 997,
+    "image": "assets/mmbench/997.jpg",
+    "mmbench_ids": [
+      997,
+      1000997,
+      2000997,
+      3000997
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 998,
+    "image": "assets/mmbench/998.jpg",
+    "mmbench_ids": [
+      998,
+      1000998,
+      2000998,
+      3000998
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 999,
+    "image": "assets/mmbench/999.jpg",
+    "mmbench_ids": [
+      999,
+      1000999,
+      2000999,
+      3000999
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1000,
+    "image": "assets/mmbench/1000.jpg",
+    "mmbench_ids": [
+      1000,
+      1001000,
+      2001000,
+      3001000
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1001,
+    "image": "assets/mmbench/1001.jpg",
+    "mmbench_ids": [
+      1001,
+      1001001,
+      2001001,
+      3001001
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1002,
+    "image": "assets/mmbench/1002.jpg",
+    "mmbench_ids": [
+      1002,
+      1001002,
+      2001002,
+      3001002
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1003,
+    "image": "assets/mmbench/1003.jpg",
+    "mmbench_ids": [
+      1003,
+      1001003,
+      2001003,
+      3001003
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1004,
+    "image": "assets/mmbench/1004.jpg",
+    "mmbench_ids": [
+      1004,
+      1001004,
+      2001004,
+      3001004
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1005,
+    "image": "assets/mmbench/1005.jpg",
+    "mmbench_ids": [
+      1005,
+      1001005,
+      2001005,
+      3001005
+    ]
+  },
+  {
+    "category": "physical_relation",
+    "base_img_id": 1006,
+    "image": "assets/mmbench/1006.jpg",
+    "mmbench_ids": [
+      1006,
+      1001006,
+      2001006,
+      3001006
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 138,
+    "image": "assets/mmbench/138.jpg",
+    "mmbench_ids": [
+      138,
+      1000138,
+      2000138,
+      3000138
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 869,
+    "image": "assets/mmbench/869.jpg",
+    "mmbench_ids": [
+      869,
+      1000869,
+      2000869,
+      3000869
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 870,
+    "image": "assets/mmbench/870.jpg",
+    "mmbench_ids": [
+      870,
+      1000870,
+      2000870,
+      3000870
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 872,
+    "image": "assets/mmbench/872.jpg",
+    "mmbench_ids": [
+      872,
+      1000872,
+      2000872,
+      3000872
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 875,
+    "image": "assets/mmbench/875.jpg",
+    "mmbench_ids": [
+      875,
+      1000875,
+      2000875,
+      3000875
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 879,
+    "image": "assets/mmbench/879.jpg",
+    "mmbench_ids": [
+      879,
+      1000879,
+      2000879,
+      3000879
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 880,
+    "image": "assets/mmbench/880.jpg",
+    "mmbench_ids": [
+      880,
+      1000880,
+      2000880,
+      3000880
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 884,
+    "image": "assets/mmbench/884.jpg",
+    "mmbench_ids": [
+      884,
+      1000884,
+      2000884,
+      3000884
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 885,
+    "image": "assets/mmbench/885.jpg",
+    "mmbench_ids": [
+      885,
+      1000885,
+      2000885,
+      3000885
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 887,
+    "image": "assets/mmbench/887.jpg",
+    "mmbench_ids": [
+      887,
+      1000887,
+      2000887,
+      3000887
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1139,
+    "image": "assets/mmbench/1139.jpg",
+    "mmbench_ids": [
+      1139,
+      1001139,
+      2001139,
+      3001139
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1143,
+    "image": "assets/mmbench/1143.jpg",
+    "mmbench_ids": [
+      1143,
+      1001143,
+      2001143,
+      3001143
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1144,
+    "image": "assets/mmbench/1144.jpg",
+    "mmbench_ids": [
+      1144,
+      1001144,
+      2001144,
+      3001144
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1147,
+    "image": "assets/mmbench/1147.jpg",
+    "mmbench_ids": [
+      1147,
+      1001147,
+      2001147,
+      3001147
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1148,
+    "image": "assets/mmbench/1148.jpg",
+    "mmbench_ids": [
+      1148,
+      1001148,
+      2001148,
+      3001148
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1149,
+    "image": "assets/mmbench/1149.jpg",
+    "mmbench_ids": [
+      1149,
+      1001149,
+      2001149,
+      3001149
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1150,
+    "image": "assets/mmbench/1150.jpg",
+    "mmbench_ids": [
+      1150,
+      1001150,
+      2001150,
+      3001150
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1153,
+    "image": "assets/mmbench/1153.jpg",
+    "mmbench_ids": [
+      1153,
+      1001153,
+      2001153,
+      3001153
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1154,
+    "image": "assets/mmbench/1154.jpg",
+    "mmbench_ids": [
+      1154,
+      1001154,
+      2001154,
+      3001154
+    ]
+  },
+  {
+    "category": "social_relation",
+    "base_img_id": 1155,
+    "image": "assets/mmbench/1155.jpg",
+    "mmbench_ids": [
+      1155,
+      1001155,
+      2001155,
+      3001155
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 434,
+    "image": "assets/mmbench/434.jpg",
+    "mmbench_ids": [
+      434,
+      1000434,
+      2000434
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 488,
+    "image": "assets/mmbench/488.jpg",
+    "mmbench_ids": [
+      488,
+      1000488
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 491,
+    "image": "assets/mmbench/491.jpg",
+    "mmbench_ids": [
+      491,
+      1000491,
+      2000491,
+      3000491
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 508,
+    "image": "assets/mmbench/508.jpg",
+    "mmbench_ids": [
+      508,
+      1000508,
+      2000508,
+      3000508
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 889,
+    "image": "assets/mmbench/889.jpg",
+    "mmbench_ids": [
+      889,
+      1000889,
+      2000889,
+      3000889
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 890,
+    "image": "assets/mmbench/890.jpg",
+    "mmbench_ids": [
+      890,
+      1000890,
+      2000890,
+      3000890
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 892,
+    "image": "assets/mmbench/892.jpg",
+    "mmbench_ids": [
+      892,
+      1000892,
+      2000892,
+      3000892
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 896,
+    "image": "assets/mmbench/896.jpg",
+    "mmbench_ids": [
+      896,
+      1000896,
+      2000896,
+      3000896
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 899,
+    "image": "assets/mmbench/899.jpg",
+    "mmbench_ids": [
+      899,
+      1000899,
+      2000899,
+      3000899
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 901,
+    "image": "assets/mmbench/901.jpg",
+    "mmbench_ids": [
+      901,
+      1000901,
+      2000901,
+      3000901
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 902,
+    "image": "assets/mmbench/902.jpg",
+    "mmbench_ids": [
+      902,
+      1000902,
+      2000902,
+      3000902
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 904,
+    "image": "assets/mmbench/904.jpg",
+    "mmbench_ids": [
+      904,
+      1000904,
+      2000904,
+      3000904
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 905,
+    "image": "assets/mmbench/905.jpg",
+    "mmbench_ids": [
+      905,
+      1000905,
+      2000905,
+      3000905
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1842,
+    "image": "assets/mmbench/1842.jpg",
+    "mmbench_ids": [
+      1842,
+      1001842,
+      2001842,
+      3001842
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1843,
+    "image": "assets/mmbench/1843.jpg",
+    "mmbench_ids": [
+      1843,
+      1001843,
+      2001843,
+      3001843
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1846,
+    "image": "assets/mmbench/1846.jpg",
+    "mmbench_ids": [
+      1846,
+      1001846,
+      2001846,
+      3001846
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1847,
+    "image": "assets/mmbench/1847.jpg",
+    "mmbench_ids": [
+      1847,
+      1001847,
+      2001847,
+      3001847
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1849,
+    "image": "assets/mmbench/1849.jpg",
+    "mmbench_ids": [
+      1849,
+      1001849,
+      2001849,
+      3001849
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1850,
+    "image": "assets/mmbench/1850.jpg",
+    "mmbench_ids": [
+      1850,
+      1001850,
+      2001850,
+      3001850
+    ]
+  },
+  {
+    "category": "spatial_relationship",
+    "base_img_id": 1851,
+    "image": "assets/mmbench/1851.jpg",
+    "mmbench_ids": [
+      1851,
+      1001851,
+      2001851,
+      3001851
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 1,
+    "image": "assets/mmbench/1.jpg",
+    "mmbench_ids": [
+      1,
+      1000001,
+      2000001,
+      3000001
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 2,
+    "image": "assets/mmbench/2.jpg",
+    "mmbench_ids": [
+      2,
+      1000002,
+      2000002,
+      3000002
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 7,
+    "image": "assets/mmbench/7.jpg",
+    "mmbench_ids": [
+      7,
+      1000007,
+      2000007,
+      3000007
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 8,
+    "image": "assets/mmbench/8.jpg",
+    "mmbench_ids": [
+      8,
+      1000008,
+      2000008,
+      3000008
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 9,
+    "image": "assets/mmbench/9.jpg",
+    "mmbench_ids": [
+      9,
+      1000009,
+      2000009,
+      3000009
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 11,
+    "image": "assets/mmbench/11.jpg",
+    "mmbench_ids": [
+      11,
+      1000011,
+      2000011,
+      3000011
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 12,
+    "image": "assets/mmbench/12.jpg",
+    "mmbench_ids": [
+      12,
+      1000012,
+      2000012,
+      3000012
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 16,
+    "image": "assets/mmbench/16.jpg",
+    "mmbench_ids": [
+      16,
+      1000016,
+      2000016,
+      3000016
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 18,
+    "image": "assets/mmbench/18.jpg",
+    "mmbench_ids": [
+      18,
+      1000018,
+      2000018,
+      3000018
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 355,
+    "image": "assets/mmbench/355.jpg",
+    "mmbench_ids": [
+      355,
+      1000355
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 365,
+    "image": "assets/mmbench/365.jpg",
+    "mmbench_ids": [
+      365,
+      1000365
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 370,
+    "image": "assets/mmbench/370.jpg",
+    "mmbench_ids": [
+      370,
+      1000370
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 377,
+    "image": "assets/mmbench/377.jpg",
+    "mmbench_ids": [
+      377,
+      1000377
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 401,
+    "image": "assets/mmbench/401.jpg",
+    "mmbench_ids": [
+      401,
+      1000401
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 403,
+    "image": "assets/mmbench/403.jpg",
+    "mmbench_ids": [
+      403,
+      1000403
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 404,
+    "image": "assets/mmbench/404.jpg",
+    "mmbench_ids": [
+      404,
+      1000404
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 407,
+    "image": "assets/mmbench/407.jpg",
+    "mmbench_ids": [
+      407,
+      1000407
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 410,
+    "image": "assets/mmbench/410.jpg",
+    "mmbench_ids": [
+      410,
+      1000410
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 418,
+    "image": "assets/mmbench/418.jpg",
+    "mmbench_ids": [
+      418,
+      1000418,
+      2000418
+    ]
+  },
+  {
+    "category": "structuralized_imagetext_understanding",
+    "base_img_id": 419,
+    "image": "assets/mmbench/419.jpg",
+    "mmbench_ids": [
+      419,
+      1000419
+    ]
+  }
+]
